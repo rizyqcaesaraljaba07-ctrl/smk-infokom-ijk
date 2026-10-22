@@ -68,7 +68,7 @@ smk-infokom/
 
 5. **Login Admin default**:
    - Username: `admin`
-   - Password: `admin123`
+   - Password: `password`
 
 ## 🗺️ Mengatur Google Maps di Footer
 
